@@ -33,7 +33,7 @@
 |      |     |  |
 
 
-## Comminities
+## Communities
 ### Subreddits
 ### Discord Servers
 
