@@ -2,9 +2,10 @@
 
 <!-- title -->
 # Awesome Rainbow Six
+  
 <!--lint ignore no-dead-urls-->
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-[![Awesome Lint](https://github.com/KieranRobson/awesome-rainbow-six/actions/workflows/Awesome%20Lint.yaml/badge.svg)](https://github.com/https://github.com/KieranRobson/awesome-rainbow-six/actions/workflows/Awesome%20Lint.yaml)
+[![Awesome Lint](https://github.com/KieranRobson/awesome-rainbow-six/actions/workflows/Awesome%20Lint.yaml/badge.svg)](https://github.com/KieranRobson/awesome-rainbow-six/actions/workflows/Awesome%20Lint.yaml)
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/KieranRobson/awesome-rainbow-six/pulls)
 
 <!-- subtitle -->
