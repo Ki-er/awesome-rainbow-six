@@ -18,10 +18,30 @@
 <!-- toc -->
 ## Contents
 * [Featured (new releases)](#featured-new-releases)
+* [Official](#official)
+* [Communities](#communities)
+  * [Subreddits](#subreddits)
+  * [Discord Servers](#discord-servers)  
 
 
 <!-- START content -->
 ## Featured (new releases)
+## Official
+| Ubisoft     | Rainbow Six Siege      |Rainbow Six Siege: Extraction|  
+|--------------|-----------            |------------                 |
+| [Twitter](https://twitter.com/Ubisoft)    | [Twitter](https://twitter.com/rainbow6Game)                 | [Twitter](https://twitter.com/r6extraction)                        |
+|      |     |  |
+
+
+## Comminities
+### Subreddits
+### Discord Servers
+
+
+
+
+
+
 
 <!-- END CONTENT -->
 
