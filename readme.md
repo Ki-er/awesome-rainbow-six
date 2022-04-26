@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- title -->
-# Awesome Sharing  Tools
+# Awesome Rainbow Six
 <!--lint ignore no-dead-urls-->
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-[![Awesome Lint](https://github.com/KieranRobson/awesome-sharing/actions/workflows/Awesome%20Lint.yaml/badge.svg)](https://github.com/KieranRobson/awesome-sharing/actions/workflows/Awesome%20Lint.yaml)
-[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/KieranRobson/awesome-discord-tools/pulls)
+[![Awesome Lint](https://github.com/KieranRobson/rainbow-six/actions/workflows/Awesome%20Lint.yaml/badge.svg)](https://github.com/KieranRobson/awesome-sharing/actions/workflows/Awesome%20Lint.yaml)
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/KieranRobson/rainbow-six/pulls)
 
 <!-- subtitle -->
 
